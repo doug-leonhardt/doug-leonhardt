@@ -1,0 +1,12 @@
+{
+  "name": "doug-leonhardt profile README",
+  "user": "ubuntu",
+  "install": "cd .cursor/tools && npm install",
+  "terminals": [
+    {
+      "name": "readme-preview",
+      "command": "cd .cursor/tools && npm run preview"
+    }
+  ],
+  "ports": [3000]
+}
